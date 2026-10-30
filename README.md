@@ -1,5 +1,7 @@
-# glass-releases
+# Glass releases
 
-Public releases-only repo for [Glass](https://github.com/swethankreddy) — the macOS overlay assistant.
+Signed update packages for Glass, the macOS overlay assistant. Glass checks
+this feed automatically; download it from https://glass-desktop.vercel.app.
 
-The app's in-app updater fetches `releases/latest/download/glass-update.json` from this repo to check for updates.
+Glass is proprietary software. This repository holds release builds only and
+contains no source code. All rights reserved.
